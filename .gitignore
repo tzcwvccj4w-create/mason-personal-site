@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies and build caches
+node_modules/
+.cache/
+.tmp/
+tmp/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+
+# Local deliverables and previews
+*.zip
+screenshots/
+*_desktop.png
+*_mobile.png
